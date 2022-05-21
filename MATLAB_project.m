@@ -1,5 +1,6 @@
 %% Print Array In Spiral Order
 A = input("Enter the matrix : \n")
+%i am changing something idk What   
 %% Define Processing Inputs
 % Define Row And Coloums.
 % Define Left Most , Right Most, Top Most and Bottom most Rows and
