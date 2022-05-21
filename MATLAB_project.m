@@ -42,4 +42,4 @@ while(T <= B && L <= R)
         dir = 0;
     end
 end
-hjejksnsdmflsndl
+By - Devendra Kumar Tarak
